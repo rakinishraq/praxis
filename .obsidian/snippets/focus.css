@@ -1,0 +1,6 @@
+.cm-line:not(.cm-active) {
+	opacity: 0.3;
+}
+.workspace-leaf .view-header {
+	display: none;
+}
