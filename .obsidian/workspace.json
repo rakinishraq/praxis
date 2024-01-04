@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "1182857930945601607",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/1182857930945601607.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":203},\"to\":{\"line\":10,\"ch\":203}}}"
+                },
+                {
                   "title": "1174844773799043073",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/1174844773799043073.md\",\"mode\":\"source\",\"source\":false}}",
@@ -28,35 +34,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/1182857930945601607.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7da337c10f9dba02",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/1174844773799043073.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -176,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/1174844773799043073.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/1174844773799043073.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/1174844773799043073.md"
+                "file": "README.md"
               }
             }
           },
@@ -324,12 +308,16 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "7da337c10f9dba02",
+  "active": "6006dccd458c91a0",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Projects/1168911834435301447.md",
+    "Projects/1181510952806522910.md",
+    "README.md",
     "Projects/1182857930945601607.md",
+    "Projects/1174844773799043073.md",
     "Projects/1182286118419431424.md",
     "Projects/1182283728593096745.md",
     "Projects/1182283328179679264.md",
@@ -340,7 +328,6 @@
     "Projects/1184090749046886471.md",
     "Projects/1184089954951888926.md",
     "Projects/1181532386421383229.md",
-    "Projects/1181510952806522910.md",
     "Projects/1180020217125019668.md",
     "Projects/1177964372467921006.md",
     "Projects/1169873126742556692.md",
@@ -352,9 +339,6 @@
     "Projects/1186850318621876335.md",
     "Projects/1184943681896194059.md",
     "Projects/1184922161215971449.md",
-    "Projects/1184898224557920286.md",
-    "Projects/1181529294544064563.md",
-    "Projects/1181523235515420713.md",
     "Projects/Test2",
     "Projects/Testski",
     "Assets",
