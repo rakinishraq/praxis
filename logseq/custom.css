@@ -1,0 +1,63 @@
+/* https://discuss.logseq.com/t/hybrid-mode-hide-bullet-points-for-first-level-blocks-with-no-children/20641 */
+:root:not(.is-native-android) .ls-block[haschild="false"][level="1"]:not([data-refs-self*="@"]) > div > div > a > .bullet-container {
+    display: none !important;  
+}
+
+/* https://discuss.logseq.com/t/style-changes-when-drilling-down-a-block-level/22051 */
+.mb-4+div>.page-blocks-inner>div>div>.content>.blocks-container>div>div>.ls-block>.flex.flex-row.pr-2>.block-control-wrap {
+    display: none;
+}
+
+.mb-4+div>.page-blocks-inner>div>div>.content>.blocks-container>div>div>.ls-block>.flex.flex-row.pr-2 .awLi-icon[data-is-emoji=true] {
+    font-size: 32px !important;
+    margin-right: 28px;
+}
+
+.mb-4+div>.page-blocks-inner>div>div>.content>.blocks-container>div>div>.ls-block>.flex.flex-row.pr-2 {
+    font-size: 32px !important;
+    position: relative;
+    left: 20px;
+}
+.mb-4+div>.page-blocks-inner>div>div>.content>.blocks-container>div>div>.ls-block>.block-children-container {
+    margin-left: 0px;
+}
+.mb-4+div>.page-blocks-inner>div>div>.content>.blocks-container>div>div>.ls-block>.flex.flex-row.pr-2 :is(h1, h2, h3, h4, h5, h6) {
+    font-size: 32px;
+}
+
+.mb-4+div>.page-blocks-inner>div>div>.content>.blocks-container>div>div>.ls-block>.flex.flex-row.pr-2>.flex.flex-col.block-content-wrapper>.flex.flex-row>.flex.flex-row.items-center {
+    align-items: baseline;
+}
+
+.mb-4+div>.page-blocks-inner>div>div>.content>.blocks-container>div>div>.ls-block>.flex.flex-row.pr-2 .block-marker {
+    font-size: 32px !important;
+    font-weight: bold !important;
+}
+
+.mb-4+div>.page-blocks-inner>div>div>.content>.blocks-container>div>div>.ls-block>.flex.flex-row.pr-2 .form-checkbox {
+    width: 22px;
+    height: 22px;
+    border-width: 0px;
+}
+
+.mb-4+div>.page-blocks-inner>div>div>.content>.blocks-container>div>div>.ls-block>.flex.flex-row.pr-2 .color-level {
+    font-size: initial;
+}
+
+.mb-4+div>.page-blocks-inner>div>div>.content>.blocks-container>div>div>.ls-block>.flex.flex-row.pr-2+.block-children-container>.block-children {
+    border-left: 0px;
+}
+
+.mb-4+div>.page-blocks-inner>div>div>.content>.blocks-container>div>div>.ls-block>.flex.flex-row.pr-2+.block-children-container>.block-children-left-border {
+    display: none;
+}
+
+.mb-4+div>.page-blocks-inner>div>div>.content>.blocks-container>div>div>.ls-block>.flex.flex-row.pr-2>.flex.flex-col.block-content-wrapper>.flex.flex-row>.flex-1.w-full>.block-content>.block-content-inner+.block-body:not(:empty) {
+    font-size: small;
+    font-weight: 400;
+    padding: 0px 5px;
+}
+
+.mb-4>.breadcrumb.block-parents.flex-row.flex-1.my-2 {
+    margin-left: 27px;
+}

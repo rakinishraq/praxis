@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b31ef643acff5f99",
+        "id": "086e1a50fdd57543",
         "type": "tabs",
         "children": [
           {
-            "id": "6006dccd458c91a0",
+            "id": "95672cea867fd902",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,23 +18,23 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "1182857930945601607",
+                  "title": "Stuff To Do",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/1182857930945601607.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":203},\"to\":{\"line\":10,\"ch\":203}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documents/Stuff To Do.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "1174844773799043073",
+                  "title": "README",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/1174844773799043073.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":107},\"to\":{\"line\":6,\"ch\":107}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Documents/Ghost Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Documents/Ghost Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Documents/Ghost Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Documents/Ghost Protocol.md"
               }
             }
           },
@@ -281,13 +281,30 @@
               "type": "custom-frames-google-keep",
               "state": {}
             }
+          },
+          {
+            "id": "0ccd8aa8dc94c585",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "custom-frames-google-tasks",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
+    "width": 825.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -305,17 +322,41 @@
       "omnisearch:Omnisearch": false,
       "copilot:Copilot Chat": true,
       "obsidian-stille:Toggle Stille": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6006dccd458c91a0",
+  "active": "95672cea867fd902",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Documents/Stuff To Do.md",
+    "logseq/bak/Documents/Stuff To Do/2024-01-05T20_55_20.389Z.Desktop.md",
+    "logseq/bak/Documents/Stuff To Do",
+    "logseq/bak/Documents",
+    "README.md",
+    "Assets/wallpaper.png",
+    "Documents/Ghost Protocol.md",
+    "logseq/bak/logseq/pages/Ghost Protocol/2024-01-05T19_42_14.805Z.Desktop.md",
+    "logseq/bak/logseq/pages/Ghost Protocol/2024-01-05T19_42_10.317Z.Desktop.md",
+    "logseq/bak/logseq/pages/Ghost Protocol/2024-01-05T19_42_06.220Z.Desktop.md",
+    "logseq/bak/logseq/pages/Ghost Protocol/2024-01-05T19_42_03.258Z.Desktop.md",
+    "logseq/bak/logseq/pages/Ghost Protocol",
+    "logseq/bak/logseq/pages",
+    "logseq/pages/excalidraw-library-items-storage.md",
+    "logseq/pages/contents.md",
+    "logseq/pages",
+    "logseq/bak/logseq/config/2024-01-05T18_48_31.203Z.Desktop.edn",
+    "logseq/bak/logseq/config/2024-01-05T18_48_14.129Z.Desktop.edn",
+    "logseq/bak/logseq/config/2024-01-05T18_46_51.101Z.Desktop.edn",
+    "logseq/bak/logseq/config/2024-01-05T18_46_50.671Z.Desktop.edn",
+    "logseq/bak/logseq/config/2024-01-05T18_46_49.485Z.Desktop.edn",
+    "journals/2024_01_05.md",
+    "pages/excalidraw-library-items-storage.md",
+    "pages/contents.md",
     "Projects/1168911834435301447.md",
     "Projects/1181510952806522910.md",
-    "README.md",
     "Projects/1182857930945601607.md",
     "Projects/1174844773799043073.md",
     "Projects/1182286118419431424.md",
@@ -326,25 +367,6 @@
     "Projects/1184096642161455144.md",
     "Projects/1184093374760890399.md",
     "Projects/1184090749046886471.md",
-    "Projects/1184089954951888926.md",
-    "Projects/1181532386421383229.md",
-    "Projects/1180020217125019668.md",
-    "Projects/1177964372467921006.md",
-    "Projects/1169873126742556692.md",
-    "Projects/1169863944828092437.md",
-    "Projects/1168898345985658960.md",
-    "Projects/1190020247349100635.md",
-    "Projects/1190020154956980285.md",
-    "Projects/1189266811364053032.md",
-    "Projects/1186850318621876335.md",
-    "Projects/1184943681896194059.md",
-    "Projects/1184922161215971449.md",
-    "Projects/Test2",
-    "Projects/Testski",
-    "Assets",
-    "README.pdf",
-    "Projects/Test2",
-    "Projects/Test1",
-    "Projects"
+    "Projects/1184089954951888926.md"
   ]
 }
