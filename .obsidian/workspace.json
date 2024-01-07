@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Ghost Protocol",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documents/Ghost Protocol.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":35},\"to\":{\"line\":4,\"ch\":35}}}"
+                },
+                {
                   "title": "Stuff To Do",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documents/Stuff To Do.md\",\"mode\":\"source\",\"source\":false}}",
@@ -34,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documents/Ghost Protocol.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Ghost Protocol.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Ghost Protocol.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Ghost Protocol.md"
+                "file": "README.md"
               }
             }
           },
@@ -331,13 +337,13 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Documents/Ghost Protocol.md",
     "Documents/Stuff To Do.md",
     "logseq/bak/Documents/Stuff To Do/2024-01-05T20_55_20.389Z.Desktop.md",
     "logseq/bak/Documents/Stuff To Do",
     "logseq/bak/Documents",
     "README.md",
     "Assets/wallpaper.png",
-    "Documents/Ghost Protocol.md",
     "logseq/bak/logseq/pages/Ghost Protocol/2024-01-05T19_42_14.805Z.Desktop.md",
     "logseq/bak/logseq/pages/Ghost Protocol/2024-01-05T19_42_10.317Z.Desktop.md",
     "logseq/bak/logseq/pages/Ghost Protocol/2024-01-05T19_42_06.220Z.Desktop.md",
