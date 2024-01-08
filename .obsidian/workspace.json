@@ -24,6 +24,60 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":35},\"to\":{\"line\":4,\"ch\":35}}}"
                 },
                 {
+                  "title": "Atomic Habits",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Summaries/Atomic Habits.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ghost Protocol",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documents/Ghost Protocol.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Stuff To Do",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documents/Stuff To Do.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ghost Protocol",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documents/Ghost Protocol.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":35},\"to\":{\"line\":4,\"ch\":35}}}"
+                },
+                {
+                  "title": "Stuff To Do",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documents/Stuff To Do.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ghost Protocol",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documents/Ghost Protocol.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":35},\"to\":{\"line\":4,\"ch\":35}}}"
+                },
+                {
+                  "title": "Atomic Habits",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Summaries/Atomic Habits.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":42},\"to\":{\"line\":26,\"ch\":42}},\"scroll\":10.13340979471034}"
+                },
+                {
+                  "title": "Ghost Protocol",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documents/Ghost Protocol.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":35},\"to\":{\"line\":4,\"ch\":35}}}"
+                },
+                {
                   "title": "Stuff To Do",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documents/Stuff To Do.md\",\"mode\":\"source\",\"source\":false}}",
@@ -40,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Summaries/Atomic Habits.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Summaries/Atomic Habits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Summaries/Atomic Habits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Summaries/Atomic Habits.md"
               }
             }
           },
@@ -338,11 +392,13 @@
   },
   "lastOpenFiles": [
     "Documents/Ghost Protocol.md",
+    "Summaries/Atomic Habits.md",
+    "Summaries",
     "Documents/Stuff To Do.md",
+    "README.md",
     "logseq/bak/Documents/Stuff To Do/2024-01-05T20_55_20.389Z.Desktop.md",
     "logseq/bak/Documents/Stuff To Do",
     "logseq/bak/Documents",
-    "README.md",
     "Assets/wallpaper.png",
     "logseq/bak/logseq/pages/Ghost Protocol/2024-01-05T19_42_14.805Z.Desktop.md",
     "logseq/bak/logseq/pages/Ghost Protocol/2024-01-05T19_42_10.317Z.Desktop.md",
@@ -357,7 +413,6 @@
     "logseq/bak/logseq/config/2024-01-05T18_48_14.129Z.Desktop.edn",
     "logseq/bak/logseq/config/2024-01-05T18_46_51.101Z.Desktop.edn",
     "logseq/bak/logseq/config/2024-01-05T18_46_50.671Z.Desktop.edn",
-    "logseq/bak/logseq/config/2024-01-05T18_46_49.485Z.Desktop.edn",
     "journals/2024_01_05.md",
     "pages/excalidraw-library-items-storage.md",
     "pages/contents.md",
@@ -371,8 +426,6 @@
     "Projects/1182274155954044928.md",
     "Projects/1187211677863788624.md",
     "Projects/1184096642161455144.md",
-    "Projects/1184093374760890399.md",
-    "Projects/1184090749046886471.md",
-    "Projects/1184089954951888926.md"
+    "Projects/1184093374760890399.md"
   ]
 }
