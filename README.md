@@ -25,3 +25,11 @@ And some upsides:
 - Seemingly bug-free local kanban UI
 - Replaces the need for dedicated for markdown or docx (and similar "standard" formats)
 - Many website/blog-style output solutions
+
+Logseq:
+- wildly ineffective sidebar system
+- buggy interface that crashes
+- no proper long-form document support even with plugins
+- plugin ecosystem is shockingly strong
+- no proper stacking tabs
+- most essentials from obsidian transfer except iframes

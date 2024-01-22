@@ -18,6 +18,90 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Projects",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Project Plans",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Project Plans.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Projects",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Project Plans",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Project Plans.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Projects",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Project Plans",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Project Plans.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Projects",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Project Plans",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Project Plans.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "3D foreshortening",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zettelkasten/3D foreshortening.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Artistic reflection",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zettelkasten/Artistic reflection.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "3D foreshortening",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zettelkasten/3D foreshortening.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":98},\"to\":{\"line\":2,\"ch\":98}}}"
+                },
+                {
+                  "title": "Artistic reflection",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zettelkasten/Artistic reflection.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "3D foreshortening",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zettelkasten/3D foreshortening.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":7},\"to\":{\"line\":0,\"ch\":7}},\"scroll\":0}"
+                },
+                {
+                  "title": "Atomic Habits",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Studies/Atomic Habits.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":155},\"to\":{\"line\":35,\"ch\":155}},\"scroll\":10.5}"
+                },
+                {
                   "title": "Ghost Protocol",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documents/Ghost Protocol.md\",\"mode\":\"source\",\"source\":false}}",
@@ -26,7 +110,7 @@
                 {
                   "title": "Atomic Habits",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Summaries/Atomic Habits.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Studies/Atomic Habits.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -62,7 +146,7 @@
                 {
                   "title": "Atomic Habits",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Summaries/Atomic Habits.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Studies/Atomic Habits.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -94,7 +178,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/Atomic Habits.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -220,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summaries/Atomic Habits.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +330,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summaries/Atomic Habits.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summaries/Atomic Habits.md"
+                "file": "README.md"
               }
             }
           },
@@ -391,41 +475,42 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Documents/Ghost Protocol.md",
-    "Summaries/Atomic Habits.md",
-    "Summaries",
+    "Projects.md",
     "Documents/Stuff To Do.md",
-    "README.md",
-    "logseq/bak/Documents/Stuff To Do/2024-01-05T20_55_20.389Z.Desktop.md",
+    "Projects/1196031562307883028.md",
+    "Projects/1196002543717847070.md",
+    "Projects/1196001733017612288.md",
+    "Project Plans.md",
+    "Projects/1195992740413059122.md",
+    "Projects/1195348553518817332.md",
+    "Projects/1195257731981004901.md",
+    "Zettelkasten/3D foreshortening.md",
+    "Zettelkasten/Artistic reflection.md",
+    "Studies/Atomic Habits.md",
+    "Zettelkasten/Zettels.md",
+    "Zettelkasten/Zettelkasten is long-term.md",
+    "Zettelkasten/Werner Herzog.md",
+    "Zettelkasten/The Dream Lands.md",
+    "Zettelkasten/Search for meaningful art.md",
+    "Zettelkasten/Sawtooth bass.md",
+    "Zettelkasten/Pulse Effect VR.md",
+    "Zettelkasten/Project videos.md",
+    "Zettelkasten/Project Nyx.md",
+    "Zettelkasten/Prisma.md",
+    "Zettelkasten/Positive thoughts.md",
+    "Zettelkasten/Portfolio.md",
+    "Zettelkasten/Phone-Powered Laptop.md",
+    "Zettelkasten/Philomathic Creed.md",
+    "Zettelkasten",
+    "zettelkasten",
+    "Studies",
     "logseq/bak/Documents/Stuff To Do",
     "logseq/bak/Documents",
     "Assets/wallpaper.png",
-    "logseq/bak/logseq/pages/Ghost Protocol/2024-01-05T19_42_14.805Z.Desktop.md",
-    "logseq/bak/logseq/pages/Ghost Protocol/2024-01-05T19_42_10.317Z.Desktop.md",
-    "logseq/bak/logseq/pages/Ghost Protocol/2024-01-05T19_42_06.220Z.Desktop.md",
-    "logseq/bak/logseq/pages/Ghost Protocol/2024-01-05T19_42_03.258Z.Desktop.md",
     "logseq/bak/logseq/pages/Ghost Protocol",
     "logseq/bak/logseq/pages",
-    "logseq/pages/excalidraw-library-items-storage.md",
-    "logseq/pages/contents.md",
     "logseq/pages",
     "logseq/bak/logseq/config/2024-01-05T18_48_31.203Z.Desktop.edn",
-    "logseq/bak/logseq/config/2024-01-05T18_48_14.129Z.Desktop.edn",
-    "logseq/bak/logseq/config/2024-01-05T18_46_51.101Z.Desktop.edn",
-    "logseq/bak/logseq/config/2024-01-05T18_46_50.671Z.Desktop.edn",
-    "journals/2024_01_05.md",
-    "pages/excalidraw-library-items-storage.md",
-    "pages/contents.md",
-    "Projects/1168911834435301447.md",
-    "Projects/1181510952806522910.md",
-    "Projects/1182857930945601607.md",
-    "Projects/1174844773799043073.md",
-    "Projects/1182286118419431424.md",
-    "Projects/1182283728593096745.md",
-    "Projects/1182283328179679264.md",
-    "Projects/1182274155954044928.md",
-    "Projects/1187211677863788624.md",
-    "Projects/1184096642161455144.md",
-    "Projects/1184093374760890399.md"
+    "logseq/bak/logseq/config/2024-01-05T18_48_14.129Z.Desktop.edn"
   ]
 }

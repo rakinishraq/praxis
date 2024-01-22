@@ -8,5 +8,6 @@
   },
   "attachmentFolderPath": "Projects",
   "promptDelete": false,
-  "vimMode": true
+  "vimMode": true,
+  "alwaysUpdateLinks": true
 }
