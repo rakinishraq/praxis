@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4b02e5d3970af0ee",
+        "id": "5ed15971119dd8a4",
         "type": "tabs",
         "children": [
           {
-            "id": "45cc31e9bb77e85b",
+            "id": "47ae30bf86a13c82",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Projects.md"
+                "file": "Documents/Dashboard.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Projects.md",
+            "file": "Documents/Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Projects.md",
+            "file": "Documents/Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,12 +122,12 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Projects.md"
+            "file": "Documents/Dashboard.md"
           }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,14 +137,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-stille:Toggle Stille": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45cc31e9bb77e85b",
+  "active": "46a24308051955de",
   "lastOpenFiles": [
+    "Documents/Projects.md",
+    "Documents/Dashboard.md",
+    "Excalidraw/Drawing 2024-02-15 01.19.51.excalidraw.md",
+    "Excalidraw",
+    "Calendar/2024-02-16 Rifat Haircut.md",
+    "Documents/Tasks.md",
+    "Calendar/2024-02-09 Testski.md",
+    "Test Video.md",
+    "2024-02-09.md",
+    "Documents/Stuff To Do.md",
+    "Drawing 2024-02-08 05.43.17.excalidraw.md",
+    "Documents/GhostProtocol.md",
+    "Drawing 2024-02-08 00.46.18.excalidraw.md",
+    "Untitled.canvas",
+    "Projects.md",
     "README.md"
   ]
 }

@@ -18,12 +18,34 @@
       "key": "P"
     }
   ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
   "cmenu-plugin:hide-show-menu": [
     {
       "modifiers": [
-        "Mod"
+        "Shift"
       ],
-      "key": "`"
+      "key": "Tab"
     }
   ]
 }

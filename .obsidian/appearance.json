@@ -2,6 +2,9 @@
   "accentColor": "#8f8f8f",
   "cssTheme": "pywal",
   "enabledCssSnippets": [
-    "zoom-bar"
-  ]
+    "zoom-bar",
+    "dashboard",
+    "logseq"
+  ],
+  "showViewHeader": true
 }

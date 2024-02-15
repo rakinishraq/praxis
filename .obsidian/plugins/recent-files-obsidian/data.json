@@ -1,52 +1,192 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Dashboard",
+      "path": "Documents/Dashboard.md"
     },
     {
       "basename": "Projects",
-      "path": "Projects.md"
-    },
-    {
-      "basename": "Stuff To Do",
-      "path": "Documents/Stuff To Do.md"
-    },
-    {
-      "basename": "3D foreshortening",
-      "path": "Zettelkasten/3D foreshortening.md"
-    },
-    {
-      "basename": "Artistic reflection",
-      "path": "Zettelkasten/Artistic reflection.md"
+      "path": "Documents/Projects.md"
     },
     {
       "basename": "Atomic Habits",
       "path": "Studies/Atomic Habits.md"
     },
     {
-      "basename": "Ghost Protocol",
-      "path": "Documents/Ghost Protocol.md"
+      "basename": "LICENSE",
+      "path": "LICENSE.txt"
     },
     {
-      "basename": "wallpaper",
-      "path": "Assets/wallpaper.png"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "1168911834435301447",
-      "path": "Projects/1168911834435301447.md"
+      "basename": "Philomathic Creed",
+      "path": "Zettelkasten/Philomathic Creed.md"
     },
     {
-      "basename": "1181510952806522910",
-      "path": "Projects/1181510952806522910.md"
+      "basename": "Zettels",
+      "path": "Zettelkasten/Zettels.md"
     },
     {
-      "basename": "1182857930945601607",
-      "path": "Projects/1182857930945601607.md"
+      "basename": "Zettelkasten is long-term",
+      "path": "Zettelkasten/Zettelkasten is long-term.md"
     },
     {
-      "basename": "1174844773799043073",
-      "path": "Projects/1174844773799043073.md"
+      "basename": "Werner Herzog",
+      "path": "Zettelkasten/Werner Herzog.md"
+    },
+    {
+      "basename": "The Dream Lands",
+      "path": "Zettelkasten/The Dream Lands.md"
+    },
+    {
+      "basename": "Search for meaningful art",
+      "path": "Zettelkasten/Search for meaningful art.md"
+    },
+    {
+      "basename": "Sawtooth bass",
+      "path": "Zettelkasten/Sawtooth bass.md"
+    },
+    {
+      "basename": "Pulse Effect VR",
+      "path": "Zettelkasten/Pulse Effect VR.md"
+    },
+    {
+      "basename": "Project videos",
+      "path": "Zettelkasten/Project videos.md"
+    },
+    {
+      "basename": "Project Nyx",
+      "path": "Zettelkasten/Project Nyx.md"
+    },
+    {
+      "basename": "Prisma",
+      "path": "Zettelkasten/Prisma.md"
+    },
+    {
+      "basename": "Positive thoughts",
+      "path": "Zettelkasten/Positive thoughts.md"
+    },
+    {
+      "basename": "Portfolio",
+      "path": "Zettelkasten/Portfolio.md"
+    },
+    {
+      "basename": "Phone-Powered Laptop",
+      "path": "Zettelkasten/Phone-Powered Laptop.md"
+    },
+    {
+      "basename": "Phases of creativity and life",
+      "path": "Zettelkasten/Phases of creativity and life.md"
+    },
+    {
+      "basename": "Passive inspiration",
+      "path": "Zettelkasten/Passive inspiration.md"
+    },
+    {
+      "basename": "Organizing cinematography",
+      "path": "Zettelkasten/Organizing cinematography.md"
+    },
+    {
+      "basename": "Note structure",
+      "path": "Zettelkasten/Note structure.md"
+    },
+    {
+      "basename": "Niche products",
+      "path": "Zettelkasten/Niche products.md"
+    },
+    {
+      "basename": "Negative events and traits",
+      "path": "Zettelkasten/Negative events and traits.md"
+    },
+    {
+      "basename": "Mirage VR",
+      "path": "Zettelkasten/Mirage VR.md"
+    },
+    {
+      "basename": "Minimal gamedev",
+      "path": "Zettelkasten/Minimal gamedev.md"
+    },
+    {
+      "basename": "MERC Regimen",
+      "path": "Zettelkasten/MERC Regimen.md"
+    },
+    {
+      "basename": "Matte black Chevy",
+      "path": "Zettelkasten/Matte black Chevy.md"
+    },
+    {
+      "basename": "Lo-fi synth",
+      "path": "Zettelkasten/Lo-fi synth.md"
+    },
+    {
+      "basename": "Light of life",
+      "path": "Zettelkasten/Light of life.md"
+    },
+    {
+      "basename": "Leah SI",
+      "path": "Zettelkasten/Leah SI.md"
+    },
+    {
+      "basename": "Jenna",
+      "path": "Zettelkasten/Jenna.md"
+    },
+    {
+      "basename": "Interleaved practice",
+      "path": "Zettelkasten/Interleaved practice.md"
+    },
+    {
+      "basename": "Insight notes",
+      "path": "Zettelkasten/Insight notes.md"
+    },
+    {
+      "basename": "Hackable smartwatch",
+      "path": "Zettelkasten/Hackable smartwatch.md"
+    },
+    {
+      "basename": "Grieving humanity",
+      "path": "Zettelkasten/Grieving humanity.md"
+    },
+    {
+      "basename": "Gamedev kanban",
+      "path": "Zettelkasten/Gamedev kanban.md"
+    },
+    {
+      "basename": "Finding research papers",
+      "path": "Zettelkasten/Finding research papers.md"
+    },
+    {
+      "basename": "Entropy Theory VR",
+      "path": "Zettelkasten/Entropy Theory VR.md"
+    },
+    {
+      "basename": "Efficient gamedev",
+      "path": "Zettelkasten/Efficient gamedev.md"
+    },
+    {
+      "basename": "Deviate",
+      "path": "Zettelkasten/Deviate.md"
+    },
+    {
+      "basename": "Deja",
+      "path": "Zettelkasten/Deja.md"
+    },
+    {
+      "basename": "Dark Reader x Pywal",
+      "path": "Zettelkasten/Dark Reader x Pywal.md"
+    },
+    {
+      "basename": "Candle meditation",
+      "path": "Zettelkasten/Candle meditation.md"
+    },
+    {
+      "basename": "Aura",
+      "path": "Zettelkasten/Aura.md"
+    },
+    {
+      "basename": "Attention",
+      "path": "Zettelkasten/Attention.md"
     }
   ],
   "omittedPaths": [],

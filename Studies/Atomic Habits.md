@@ -1,8 +1,5 @@
-20220410 #reference #book 
 Creator: James Clear
 Tags: [[Biohacking]], [[Speedrunning]]
-
----
 
 ## INTRODUCTION
 
