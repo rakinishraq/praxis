@@ -8,10 +8,6 @@
       "name": "Full",
       "plugins": [
         {
-          "id": "table-editor-obsidian",
-          "name": "Advanced Tables"
-        },
-        {
           "id": "obsidian-auto-link-title",
           "name": "Auto Link Title"
         },
@@ -110,6 +106,18 @@
         {
           "id": "obsidian-banners",
           "name": "Banners"
+        },
+        {
+          "id": "csv-obsidian",
+          "name": "CSV Editor"
+        },
+        {
+          "id": "homepage",
+          "name": "Homepage"
+        },
+        {
+          "id": "obsidian-admonition",
+          "name": "Admonition"
         }
       ],
       "groupIds": [],

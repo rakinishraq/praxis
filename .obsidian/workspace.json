@@ -4,32 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "13999c1a631faf43",
+        "id": "490a55b478c685a1",
         "type": "tabs",
         "children": [
           {
-            "id": "b5c197925c193cc7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documents/Dashboard.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dadf4f26af6a97b6",
+            "id": "394f1ea138a6d038",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -42,6 +21,33 @@
                   "title": "Projects",
                   "icon": "lucide-trello",
                   "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Documents/Projects.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Dashboard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Documents/Dashboard.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":8.8655}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documents/Career Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43cb10eb6599c308",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
                   "eState": "{}"
                 }
               ]
@@ -91,6 +97,15 @@
           {
             "id": "02506a35854a4621",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -106,6 +121,15 @@
           {
             "id": "1e0139f8a2ada737",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {}
@@ -151,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.51103591918945,
-    "collapsed": true
+    "width": 208.51103591918945
   },
   "right": {
     "id": "32d411ae8d344387",
@@ -161,7 +184,7 @@
       {
         "id": "0d7a71ff8187b9cc",
         "type": "tabs",
-        "dimension": 52.94715447154472,
+        "dimension": 48.98373983739837,
         "children": [
           {
             "id": "fcd6a0b3a0b05ee5",
@@ -245,7 +268,7 @@
       {
         "id": "0f9244802e300a7f",
         "type": "tabs",
-        "dimension": 47.05284552845528,
+        "dimension": 51.01626016260163,
         "children": [
           {
             "id": "7fcb7cbcbec55348",
@@ -326,10 +349,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 488.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "obsidian-stille:Toggle Stille": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "copilot:Copilot Chat": false,
@@ -341,18 +366,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fcb7cbcbec55348",
+  "active": "43cb10eb6599c308",
   "lastOpenFiles": [
-    "Documents/Dashboard.md",
+    "Documents/Career Plan.md",
     "Documents/Projects.md",
+    "Documents/Dashboard.md",
+    "Documents/Flight Stick.md",
+    "Studies/Atomic Habits.md",
+    "README.md",
+    "Documents/Untitled.canvas",
+    "Documents/table.md",
+    "csv.csv",
+    "LICENSE.txt",
     "Excalidraw/Drawing 2024-02-15 01.21.10.excalidraw.md",
     "Excalidraw/Drawing 2024-02-15 01.19.51.excalidraw.md",
     "Excalidraw",
     "Untitled.md",
-    "Studies/Atomic Habits.md",
     "Speedrunning.md",
-    "LICENSE.txt",
-    "README.md",
     "Documents/Tasks.md",
     "Calendar/2024-02-16 Rifat Haircut.md",
     "Documents/GhostProtocol.md",
@@ -363,7 +393,6 @@
     "Assets/Recordings/~syncthing~2024-02-11_14-52-10.m4a.tmp",
     "Assets/Recordings/2024-02-11_14-51-37.m4a",
     "Assets/Recordings/~syncthing~2024-02-11_14-51-37.m4a.tmp",
-    "Assets/Recordings/~syncthing~2024-02-11_14-50-59.m4a.tmp",
     "copilot/Chat-2024_02_09-23_53_23.md",
     "Calendar/2024-02-09 Testski.md",
     "Calendar/2024-02-07 Test.md",
@@ -376,10 +405,6 @@
     "2024-02-01.md",
     "Ghost.md",
     "Zettelkasten/Zettels.md",
-    "Zettelkasten/Zettelkasten is long-term.md",
-    "Zettelkasten/Werner Herzog.md",
-    "Zettelkasten/The Dream Lands.md",
-    "Zettelkasten/Search for meaningful art.md",
     "Assets/wallpaper.png"
   ]
 }

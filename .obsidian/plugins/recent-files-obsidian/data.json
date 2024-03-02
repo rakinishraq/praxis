@@ -5,20 +5,28 @@
       "path": "Documents/Dashboard.md"
     },
     {
+      "basename": "Career Plan",
+      "path": "Documents/Career Plan.md"
+    },
+    {
       "basename": "Projects",
       "path": "Documents/Projects.md"
+    },
+    {
+      "basename": "Flight Stick",
+      "path": "Documents/Flight Stick.md"
     },
     {
       "basename": "Atomic Habits",
       "path": "Studies/Atomic Habits.md"
     },
     {
-      "basename": "LICENSE",
-      "path": "LICENSE.txt"
-    },
-    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "LICENSE",
+      "path": "LICENSE.txt"
     },
     {
       "basename": "Philomathic Creed",

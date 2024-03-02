@@ -1,5 +1,4 @@
-Creator: James Clear
-Tags: [[Biohacking]], [[Speedrunning]]
+James Clear on [[Biohacking]], [[Speedrunning]]
 
 ## INTRODUCTION
 
